@@ -8,8 +8,8 @@ A full-stack workflow orchestration platform where teams can **collaborate, mana
 
 ## 🌐 Live Demo
 
-- Frontend: https://your-frontend-link.vercel.app
-- Backend: https://your-backend-link.onrender.com
+- Frontend: https://esmagico-mern-assignment-pi.vercel.app/
+- Backend: https://collab-workflow.onrender.com/api
 
 ---
 
@@ -135,13 +135,6 @@ server/
 ---
 
 ## ⚙️ Setup Instructions
-
-### 🔹 Clone the repository
-
-```
-git clone https://github.com/ParnandiVarun/collab-workflow.git
-cd collab-workflow
-```
 
 ---
 
